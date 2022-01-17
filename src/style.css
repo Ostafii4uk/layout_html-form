@@ -1,17 +1,17 @@
-fieldset {
+.fieldset {
   margin-top: 20px;
 }
 
-fieldset:first-child {
+.fieldset:first-child {
   margin-top: 0;
 }
 
-label {
+.label {
   display: block;
   margin-top: 10px;
 }
 
-label:first-child {
+.label:first-child {
   margin-top: 0;
 }
 
